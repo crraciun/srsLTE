@@ -28,7 +28,7 @@ mnc = 01
 mme_addr = 127.0.1.100
 gtp_bind_addr = 127.0.1.1
 s1c_bind_addr = 127.0.1.1
-n_prb = 50
+n_prb = 6
 #tm = 4
 #nof_ports = 2
 
